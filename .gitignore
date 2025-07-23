@@ -1,0 +1,12 @@
+# Ignore audio and large media files
+*.wav
+*.webm
+*.mp3
+*.ogg
+*.m4a
+*.flac
+
+# Optional: ignore folders (edit as needed)
+recordings/
+uploads/
+output_audio/
